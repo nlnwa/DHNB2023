@@ -15,7 +15,7 @@ The service you will test are prototypes in development. You may experience trou
   - [Full-text Search](manuals/fulltext.md)
 
 ### Resources
-  - [Register with public enterprises]
-  - [Register with political parties]
-  - [Register with news sites (2005-21)]
+  - [Register of public entities](register/offentligeVirksomheter_2011-2021.xlsx)
+  - [Register of political parties 2001](register/valg2001.xlsx)
+  - [Register with news sites (2005-21)](register/registerNettaviser.xlsx)
   - [Map with Norwegian news sites (2005-21)](manuals/map.md)
