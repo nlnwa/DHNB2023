@@ -8,12 +8,12 @@ A core function in web archives is the possibility to search for specific URLs o
 Archived web resources are no longer online and are actually contained in a format called WARC. However, metadata about their original URLs makes it possible to search for all the resources that have been indexed so far.
 
 **Table of content**
-1. [URL - the address of web resources](#URL–-the-address-of-web-resources)
-2. [Different search modes](#Different-search-modes)
-  - [Default search](#Default-search)
-  - [Prefix search](#Prefix-search)
-  - [Host search](#Host-search)
-  - [Domain search](#Domain-search)
+1. [URL - the address of web resources](#url–-the-address-of-web-resources)
+2. [Different search modes](#different-search-modes)
+  - [Default search](#default-search)
+  - [Prefix search](#prefix-search)
+  - [Host search](#host-search)
+  - [Domain search](#domain-search)
 
 ## URL – the address of web resources
 To understand how the URL query works, it is beneficial to know what a URL is.
