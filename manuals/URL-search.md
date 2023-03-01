@@ -10,10 +10,10 @@ Archived web resources are no longer online and are actually contained in a form
 **Table of content**
 1. [URL - the address of web resources](#URL–the-address-of-web-resources)
 2. [Different search modes](#Different-search-modes)
-  a. [Default search](#Default-search)
-  b. [Prefix search](#Prefix-search)
-  c. [Host search](#Host-search)
-  d. [Domain search](#Domain-search)
+  - [Default search](#Default-search)
+  - [Prefix search](#Prefix-search)
+  - [Host search](#Host-search)
+  - [Domain search](#Domain-search)
 
 ## URL – the address of web resources
 To understand how the URL query works, it is beneficial to know what a URL is.
