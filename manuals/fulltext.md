@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Table of content
-1. [Full-text Search"](#full-text-search)
+1. [Full-text Search](#full-text-search)
     - [Search expressions](#search-expressions)
     - [Search syntax and logical operators](#search-syntax-and-logical-operators)
 2. [Options](#options)
@@ -14,7 +14,8 @@ layout: default
 
 
 # Full-text Search
-You might want to research events, phenomena or actors that are hard to find with the URL Search. That is why NWA is developing a full-text search engine.
+You might want to research events, phenomena or actors that are hard to find with the URL Search. That is why NWA is developing a full-text search engine.  
+  
 The prototype for full-text search generally works like many other search engines. Beneath the hood is an extensive index with natural language extracted from HTML. When you enter a query, the engine will search through the index and return results with documents that match your search expression.  
 
 ## Search expressions
@@ -22,7 +23,9 @@ To search, you simply need to enter a word or phrase in the search field.
 If you want to search for an exact phrase, you put two or more words within “question marks”.  
 
 ## Search syntax and logical operators
-Unlike the results you retrieve in Google, our results are not ranked by relevance. We work on different ways to sort results (by date, etc.), but at the moment, the service presents the most recently archived document on top.  
+Space between words or phrases works the same way as AND. This will limit your query and only return documents that contains all of the word/phrases you enter.  
+  
+You can also use OR as a logical operator between words/phrases. This will increase the amount of results, and return documents that contains at least one of the words/phrases.  
 
 # Options
 In the sidebar, you can choose between different options that will affect your result.  
@@ -43,3 +46,5 @@ When your search results are returned, you will find valuable information below 
 The first number indicates the total amount of documents in the index that matches your query. The second number shows how many of these were sampled, while the third number refers to the number of matches displayed in the result list below.  
   
 For each document listed in the result, you will find some core information about the document. First, you see the date of harvesting and its original URL. The URL is hyperlinked, and if you click the link, your browser will open a version of the document in our Wayback Machine.
+
+Unlike the results you retrieve in Google, our results are not ranked by relevance. We work on different ways to sort results (by date, etc.), but at the moment, the service presents the most recently archived document on top.
