@@ -1,18 +1,21 @@
 ---
-title: Home
+title: Norwegian Web Archive - DHNB2023 workshop
 layout: home
 ---
 
-# Norwegian Web Archive - DHNB2023 workshop
-
 These pages contain documentation and resources for the NWA workshop during DHNB2023.
 
-You will find:
-- documentation for how to use the prototype services;
-- registers with historical URL;
-- other relevant information
+The service you will test are prototypes in development. You may experience trouble and instability, but will get early insight in services to come, and contribute to our further development.
 
-## Disclaimer about prototypes
+## Table of content
 
-The workshop provides an opportunity to test prototypes in development. You may experience trouble and instability, but will get early insight in services to come, and contribute to our further development.
+### Documentation of services
+1. URL Search
+2. NWAs "Wayback Machine"
+3. Map with Norwegian news sites (2005-21)
+4. Full-text Search
 
+### Resources
+a. Register with public enterprises
+b. Register with political parties
+c. Register with news sites (2005-21)
