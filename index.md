@@ -9,13 +9,13 @@ The service you will test are prototypes in development. You may experience trou
 
 ## Table of content
 
-1. User manuals
+### User manuals
   - URL Search
-  - NWAs "Wayback Machine"
+  - The "Wayback Machine" (Visningstjeneste)
   - Map with Norwegian news sites (2005-21)
   - Full-text Search
 
-2. Resources
+### Resources
   - Register with public enterprises
   - Register with political parties
   - Register with news sites (2005-21)
