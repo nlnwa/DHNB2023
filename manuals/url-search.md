@@ -16,15 +16,20 @@ Archived web resources are no longer online and are actually contained in a form
     - [Domain search](#domain-search)
 3. [Limiting date/time range](#limiting-datetime-range)
     - [Timestamps and timecode](#timestamps-and-timecode)
+4. [Filtering](#4-filtering)
+    - [MIME-type](#mime-type)
+    - [Status](#http-response-status)
+    - [URL](#url)
+    - [Adding filters](#adding-filters)
 
-## URL – the address of web resources
+## 1. URL – the address of web resources
 To understand how URL query works, it is beneficial to know what a URL is.  
 In simple terms, this is the address of a specific resource on the web. If you visit a friend’s new apartment for the first time, you will probably navigate to her street address. Similarly, the URL tells your browser where to find the resource you want to visit.  
 Before you search for URL, it is highly beneficial to be familiar with the following terms:  
 ![](img/urlModel.png)
 
 
-## Different search modes
+## 2. Different search modes
 The URL search has four different search modes: **Default**, **Prefix**, **Host** and **Domain**. These modes provides different ways to search the archive.
 
 ### Default search
@@ -45,7 +50,7 @@ Domain mode is similar to host mode but has no sensitivity for subdomains. In pr
 Searching for `vg.no` will return resources from this domain, including different subdomains such as live.vg.no.  
 Since Domain mode ignores everything before the text you enter, you can use this mode to search for resources from a specific top-level domain, such as `edu` , `co.uk` or `com` . The drawback of this strategy is that you ask the engine to search through enormous amounts of data, often causing a time out from the server and a result with 0 resources. 
 
-## Limiting date/time range
+## 3. Limiting date/time range
 Unlike Google, our search engine does not rank results by any kind of relevance. Often, you will therefore need to limit the scope of your query further.  
 An effective way to limit the scope of your search is to define a date/time range, with a start and end date for harvesting.  
 Values in the fields **FROM** and **TO** works inclusively, returning results also on this day.
@@ -54,7 +59,7 @@ Values in the fields **FROM** and **TO** works inclusively, returning results al
 The technical term for date/time in web archives is timestamp. Each resource has a 14-digit timestamp on the format **YYYYMMDDHHMMSS**. This refer to the point of time when our harvester collected the resource - not to the publication of the resource.  
 Timestamps are UTC, which means summer time is not taken into account. If the minutes and hours are important for your analysis, there might be necessary to calculate UCT into local time. This also imply date sensitivity during summer time, as resources harvested around midnight will have different dates in UCT and CEST.
 
-##	Filtering
+##	4. Filtering
 You can limit the results further by *filtering* your search. It is possible to filter your query by three specific attributes: **MIME type**, **Status** and **URL**.  
 
 ### MIME-type
@@ -78,9 +83,7 @@ Remember to press the “Add filter” button to apply your filter, before you p
 It is possible to add multiple filters. If you add several filters, they will all apply to your query, returning results that matches all the filters. 
 
 
-
-
-Footnotes:
-[^1]: NWA’s prototype for URL Search are based on the pywb index query API. Complete technical documentation can be found in WebRecorder (2023), «Instructions», *GitHub.com*. https://github.com/webrecorder/pywb/blob/main/pywb/templates/instructions.html 
+## Footnotes
+[^1]: NWA’s prototype for URL Search are based on the pywb index query API. Complete technical documentation can be found in WebRecorder (2023), «Instructions», *GitHub.com*. https://github.com/webrecorder/pywb/blob/main/pywb/templates/instructions.html  
 [^2]: IANA, «Media Types», *IANA.org*. Archived by Internet Archive (25.01.2023). https://web.archive.org/web/20230125022711/http://www.iana.org/assignments/media-types/media-types.xhtml  
 [^3]: «HTTP response status codes», *Mozilla.org*. Archived by Internet Archive (22.01.2023). https://web.archive.org/web/20230122045630/https://developer.mozilla.org/en-US/docs/Web/HTTP/Status  
