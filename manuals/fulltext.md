@@ -49,4 +49,6 @@ The first number indicates the total amount of documents in the index that match
 
 For each document listed in the result, you will find some core information about the document. First, you see the date of harvesting and its original URL. The URL is hyperlinked, and if you click the link, your browser will open a version of the document in our Wayback Machine.
 
+![](img/results2.png)
+
 Unlike the results you retrieve in Google, our results are not ranked by relevance. We work on different ways to sort results (by date, etc.), but at the moment, the service presents the most recently archived document on top.
