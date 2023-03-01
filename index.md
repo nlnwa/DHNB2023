@@ -16,6 +16,6 @@ The service you will test are prototypes in development. You may experience trou
 4. Full-text Search
 
 ### Resources
-a. Register with public enterprises
-b. Register with political parties
-c. Register with news sites (2005-21)
+5. Register with public enterprises
+6. Register with political parties
+7. Register with news sites (2005-21)
