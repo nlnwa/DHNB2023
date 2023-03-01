@@ -10,7 +10,7 @@ The service you will test are prototypes in development. You may experience trou
 ## Table of content
 
 ### User manuals
-  - [URL Search](manuals/URL-search.md)
+  - [URL Search](manuals/url-search.md)
   - ["Wayback Machine" (Visningstjeneste)](manuals/pywb.md)
   - [Map with Norwegian news sites (2005-21)](manuals/map.md)
   - [Full-text Search](manuals/fulltext.md)
