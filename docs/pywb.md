@@ -27,7 +27,7 @@ From 2019, NWA introduced a self-developed harvester, aiming to harvest pages as
 ## Navigation
 In the top of the page, you have different navigation tools.  
 
-![](../img/navbar.png)
+![](/img/navbar.png)
 
 Pressing the left/right arrows will lead to the previous or next capture of the resource.  
 
