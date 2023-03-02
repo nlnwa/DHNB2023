@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Norwegian Web Archive - DHNB2023 workshop
-layout: home
 nav_order: 1
 has_children: true
 ---

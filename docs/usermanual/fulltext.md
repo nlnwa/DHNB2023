@@ -1,6 +1,6 @@
 ---
-title: Full-text Search
 layout: default
+title: Full-text Search
 nav_order: 3
 ---
 
