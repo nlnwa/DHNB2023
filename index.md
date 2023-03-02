@@ -3,9 +3,10 @@ layout: default
 title: Norwegian Web Archive - DHNB2023 workshop
 has_children: true
 ---
+
 Welcome to workshop with The Norwegian Web Archive: "Searching and Examining the Web of the Past". The workshop is co-hosted by National Library of Norway and Digital Scholarship Center, University of Oslo.
 
-**When?** Monday 6 March, 09:00-12:30.
+**When?** Monday 6 March, 09:00-12:30.  
 **Where?** «Oasen», HumSam Library at campus Blindern, University of Oslo.
 
 These pages contain user manuals and resources for the NWA workshop during DHNB2023.
