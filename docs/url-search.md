@@ -31,7 +31,7 @@ In simple terms, this is the address of a specific resource on the web. If you v
   
 Before you search for URL, it is highly beneficial to be familiar with the following terms:  
 
-<img src="/img/urlModel.png" width="800" height="450">
+<img src="/img/urlModel.png">
 
 
 ## 2. Different search modes
