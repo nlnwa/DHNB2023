@@ -46,7 +46,7 @@ The service will return matches, displayed in a list, with information about the
 ### Prefix search
 In prefix mode, you search for resources that starts in a specific way. In practice, prefix searches puts a wildcard on the end of the text you enter.  
   
-If you search for `http://www.hoyre.no/1997` as a prefix, the service will return all resources with a URL that starts with this string – including images, audio, and application scripts. This is especially useful if you want to locate resources from a specific web site or path. Using filters, you can limit your query further (see also [Filtering](#filtering) ).
+If you search for `http://www.hoyre.no/1997` as a prefix, the service will return all resources with a URL that starts with this string – including images, audio, and application scripts. This is especially useful if you want to locate resources from a specific web site or path. Using filters, you can limit your query further (see also [Filtering](#4-filtering)).
 
 ### Host search
 In host mode, you make a query for resources from a specific host. The engine will ignore protocol, port, path and parameters but is sensitive to subdomains.  
