@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Norwegian Web Archive - DHNB2023 workshop
-has_children: true
 ---
 
 Welcome to workshop with The Norwegian Web Archive: "Searching and Examining the Web of the Past". The workshop is co-hosted by National Library of Norway and Digital Scholarship Center, University of Oslo.
