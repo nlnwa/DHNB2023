@@ -28,3 +28,6 @@ The service you will test are prototypes in development. If you experience troub
 
 ### Report bugs or desired functions
   - [Report bugs and feedback in this form](https://docs.google.com/forms/d/e/1FAIpQLSfjpajUnAXPnbJ-t_ywuawVDStInZ-dHykguuEgx6NrCKVGbQ/viewform)
+
+### Guidelines and terms
+By using the services, you accept our [guidelines and terms](Retningslinjer-for-forskertilgang-til-Nettarkivet.pdf).
