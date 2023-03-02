@@ -13,7 +13,7 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: true
-  button: false
+  button: true
 
 enable_copy_code_button: true
 
