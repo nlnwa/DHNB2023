@@ -8,8 +8,8 @@ nav_order: 2
 1. [The "Wayback Machine"](#the-wayback-machine)
 2. [Navigation](#navigation)
 3. [Play audio and video](#play-audio-and-video)
-4. [Common errors](#common-error)
-    - [pywb error](#pywb)
+4. [Common errors](#common-errors)
+    - [pywb error](#pywb-error)
     - [URL not found](#url-not-found)
 5. [How are pages loaded and reconstructed?](#how-are-pages-loaded-and-reconstructed)
 

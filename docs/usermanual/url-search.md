@@ -7,12 +7,12 @@ nav_order: 1
 
 ### Table of content
 1. [URL - the address of web resources](#url--the-address-of-web-resources)
-2. [Different search modes](#different-search-modes)
+2. [Different search modes](#2-different-search-modes)
     - [Default search](#default-search)
     - [Prefix search](#prefix-search)
     - [Host search](#host-search)
     - [Domain search](#domain-search)
-3. [Limiting date/time range](#limiting-datetime-range)
+3. [Limiting date/time range](#3-limiting-datetime-range)
     - [Timestamps and timecode](#timestamps-and-timecode)
 4. [Filtering](#4-filtering)
     - [MIME-type](#mime-type)
@@ -80,9 +80,10 @@ You can limit the results further by *filtering* your search. It is possible to 
 MIME-type is a standard for classifying media types on the web. It is written on the format `type/subtype`, where **type** represents the general category of media, and **subtype** identifies the specific kind.  
   
 The alternatives for type are `text` , `image` , `audio` , `video` and `application`. For each of these, there is a great variety of subtypes. Some common examples are `text/html` , `image/jpg` , `audio/mp3` and `video/mp4` .    
+  
 Technically interested scholars may also be curious to inspect MIME types such as `text/css` , `application/javascript` or `application/json` .  
   
-To search for only html files, filter **MIME type** that **Contains** the expression `text/html`.  
+If you want to search for html files, filter **by MIME type** that **Contains** the expression `text/html`.  
   
 For an extensive list of MIME types, consult [IANA's list of Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml).[^2]  
   
