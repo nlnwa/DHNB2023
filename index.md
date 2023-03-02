@@ -1,6 +1,8 @@
 ---
 title: Norwegian Web Archive - DHNB2023 workshop
 layout: home
+nav_order: 1
+has_children: true
 ---
 
 These pages contain user manuals and resources for the NWA workshop during DHNB2023.
