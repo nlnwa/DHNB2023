@@ -31,11 +31,8 @@ To understand how URL query works, it is beneficial to know what a URL is.
 In simple terms, this is the address of a specific resource on the web. If you visit a friend’s new apartment for the first time, you will probably navigate to her street address. Similarly, the URL tells your browser where to find the resource you want to visit.  
   
 Before you search for URL, it is highly beneficial to be familiar with the following terms:  
-<figure>
-    <img src="../img/urlModel.png"
-         alt="URL terminology">
-    <figcaption>URL terminology</figcaption>
-</figure>
+
+<img src="../img/urlModel.png" width="800" height="450">
 
 
 ## 2. Different search modes
