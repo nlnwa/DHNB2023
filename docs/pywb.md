@@ -35,7 +35,7 @@ The calendar symbol will expand/collapse a calendar view of indexed versions, an
 
 You can also see information about the page URL, the document title (extracted from the HTML `<title>` tag) and the point of time for harvesting.  
 
-![](../img/capture-info.png)
+![](/img/capture-info.png)
 
 ## Play audio and video
 If you try to open audio or video resources from a URL search result, they will not play automatically in our Wayback Machine, but rather display a blank page.  
