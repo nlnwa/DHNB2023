@@ -46,10 +46,10 @@ When your search results are returned, you will find valuable information below 
   
 The first number indicates the total amount of documents in the index that matches your query. The second number shows how many of these were sampled, while the third number refers to the number of matches displayed in the result list below.  
   
-![](img/results.png)
+![](../img/results.png)
 
 For each document listed in the result, you will find some core information about the document. First, you see the date of harvesting and its original URL. The URL is hyperlinked, and if you click the link, your browser will open a version of the document in our Wayback Machine.
 
-![](img/results2.png)
+![](../img/results2.png)
 
 Unlike the results you retrieve in Google, our results are not ranked by relevance. We work on different ways to sort results (by date, etc.), but at the moment, the service presents the most recently archived document on top.

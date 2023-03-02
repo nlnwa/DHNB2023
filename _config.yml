@@ -1,8 +1,28 @@
 title: DHNB2023 - NWA Workshop
 description: Documentation and resources for the NWA workshop during DHNB2023.
 remote-theme: just-the-docs
-
+base-url: "/DHNB2023"
 url: https://nlnwa.github.io
+repository: nlnwa/DHNB2023
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 10
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+enable_copy_code_button: true
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
+markup / liquid-based content.
+footer_content: "Content produced by National Library of Norway Web Archive, licenced under [NLOD 1.0](https://data.norge.no/nlod/en/1.0). GitHub page template 'Just the docs', made by Patrick Marsceill, is distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
