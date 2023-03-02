@@ -1,7 +1,6 @@
 ---
 layout: default
 title: URL search
-nav_order: 3
 ---
 
 To make it easier for users to find historical websites from public entities, we have made a register of public websites published between 2001-21.

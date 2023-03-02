@@ -1,7 +1,6 @@
 ---
 layout: default
 title: URL search
-nav_order: 2
 ---
 
 ### Table of content

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: URL search
-nav_order: 2
 ---
 
 To make it easier for users to find historical newspapers, we have made a register of Norwegian newspapers published on the web between 2005-21, and their historical addresses.

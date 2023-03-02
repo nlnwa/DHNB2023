@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Full-text Search
-nav_order: 3
 ---
 
 ### Table of content
