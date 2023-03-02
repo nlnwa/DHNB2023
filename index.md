@@ -12,12 +12,12 @@ The service you will test are prototypes in development. You may experience trou
 ## Table of content
 
 ### User manuals
-  - [URL Search](docs/url-search.md)
-  - ["Wayback Machine" (Visningstjeneste)](docs/pywb.md)
-  - [Full-text Search](docs/fulltext.md)
+  - [URL Search](docs/usermanual/url-search.md)
+  - ["Wayback Machine" (Visningstjeneste)](docs/usermanual/pywb.md)
+  - [Full-text Search](docs/usermanual/fulltext.md)
 
 ### Resources
-  - [Register of public entities](docs/public.md)
-  - [Register of political parties 2001](docs/valg2001.md)
-  - [Register with news sites (2005-21)](docs/newssites.md)
+  - [Register of public entities](docs/resources/public.md)
+  - [Register of political parties 2001](docs/resources/valg2001.md)
+  - [Register with news sites (2005-21)](docs/resources/newssites.md)
   - [Map with Norwegian news sites (2005-21)](https://nettarkivet.beta.nb.no/map)
