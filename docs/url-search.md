@@ -66,13 +66,13 @@ Unlike Google, our search engine does not rank results by any kind of relevance.
   
 An effective way to limit the scope of your search is to define a date/time range, with a **start** and **end** date.  
   
-Date/time values works inclusively, returning results that include this point of time.
-
+Date/time values works inclusively, returning results that include this point of time.  
+  
 > ### Timestamps and timecode
 > The technical term for date/time in web archives is timestamp. Each resource has a 14-digit timestamp on the format **YYYYMMDDHHMMSS**. This refer to the point of time when our harvester collected the resource - not to the publication of the resource.  
 >  
 > Timestamps are UTC, which means summer time is not taken into account. If the minutes and hours are important for your analysis, there might be necessary to calculate UCT into local time. This also imply date sensitivity during summer time, as resources harvested around midnight will have different dates in UCT and CEST.    
-
+  
 ##	4. Filtering
 You can limit the results further by *filtering* your search. It is possible to filter your query by three specific attributes: **MIME type**, **Status** and **URL**.  
   
