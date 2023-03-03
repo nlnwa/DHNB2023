@@ -70,7 +70,7 @@ Date/time values works inclusively, returning results that include this point of
 
 > ### Timestamps and timecode
 > The technical term for date/time in web archives is timestamp. Each resource has a 14-digit timestamp on the format **YYYYMMDDHHMMSS**. This refer to the point of time when our harvester collected the resource - not to the publication of the resource.  
-
+>  
 > Timestamps are UTC, which means summer time is not taken into account. If the minutes and hours are important for your analysis, there might be necessary to calculate UCT into local time. This also imply date sensitivity during summer time, as resources harvested around midnight will have different dates in UCT and CEST.    
 
 ##	4. Filtering
