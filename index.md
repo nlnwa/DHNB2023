@@ -13,21 +13,19 @@ Below, you will find user guides and resources for the NWA workshop during DHNB2
 
 The service you will test are prototypes in development. If you experience trouble or instability, we are grateful if you [register it in this form](https://docs.google.com/forms/d/e/1FAIpQLSfjpajUnAXPnbJ-t_ywuawVDStInZ-dHykguuEgx6NrCKVGbQ/viewform). Your feedback will be used to improve services in the future.
 
-## Table of content
-
-### User guides
+## User guides
   - [URL Search](docs/url-search.md)
   - ["Wayback Machine" (Visningstjeneste)](docs/pywb.md)
   - [Full-text Search](docs/fulltext.md)
 
-### Resources
+## Resources
   - [Register of public entities](docs/public.md)
   - [Register of political parties 2001](docs/valg2001.md)
   - [Register with news sites (2005-21)](docs/newssites.md)
   - [Map with Norwegian news sites (2005-21)](https://nettarkivet.beta.nb.no/map/)
 
-### Report bugs or desired functions
+## Report bugs or desired functionality
   - [Report bugs and feedback in this form](https://docs.google.com/forms/d/e/1FAIpQLSfjpajUnAXPnbJ-t_ywuawVDStInZ-dHykguuEgx6NrCKVGbQ/viewform)
 
 ### Guidelines and terms
-By using the services, you accept our [guidelines and terms](/docs/Retningslinjer-for-forskertilgang-til-Nettarkivet.pdf).
+By using these services, you accept our [guidelines and terms](/docs/Retningslinjer-for-forskertilgang-til-Nettarkivet.pdf).
